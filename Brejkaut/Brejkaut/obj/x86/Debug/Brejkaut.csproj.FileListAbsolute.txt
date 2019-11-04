@@ -1,0 +1,8 @@
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\obj\x86\Debug\Brejkaut.csprojResolveAssemblyReference.cache
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\obj\x86\Debug\Brejkaut.Properties.Resources.resources
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\obj\x86\Debug\Brejkaut.csproj.GenerateResource.Cache
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\bin\Debug\Brejkaut.exe
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\bin\Debug\Brejkaut.pdb
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\obj\x86\Debug\Brejkaut.exe
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\obj\x86\Debug\Brejkaut.pdb
+C:\Users\ajovicic\Desktop\Brejkaut\Brejkaut\obj\x86\Debug\Brejkaut.Form1.resources
